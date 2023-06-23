@@ -1,0 +1,14 @@
+{
+  "title": {
+    "en": "EN_Example activity title",
+    "cy": "CY_Enghraifft o deitl gweithgaredd"
+  },
+  "content": {
+    "en": "EN_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet sed euismod nisi porta. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Auctor urna nunc id cursus metus aliquam eleifend mi. Nunc vel risus commodo viverra maecenas accumsan lacus vel facilisis. Sit amet justo donec enim diam vulputate ut pharetra sit. At tellus at urna condimentum mattis. Eu sem integer vitae justo eget magna fermentum. Quis auctor elit sed vulputate mi sit amet. Tortor dignissim convallis aenean et tortor at. Viverra adipiscing at in tellus integer. In pellentesque massa placerat duis. Amet consectetur adipiscing elit duis tristique sollicitudin. Rhoncus est pellentesque elit ullamcorper.",
+    "cy": "CY_Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Justo eget magna fermentum iaculis eu non diam phasellus vestibulum. Eu augue ut lectus arcu bibendum. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Dapibus ultrices in iaculis nunc sed augue. Malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Felis eget velit aliquet sagittis. Massa massa ultricies mi quis. Sit amet nisl suscipit adipiscing bibendum. In mollis nunc sed id semper risus in hendrerit. Leo vel fringilla est ullamcorper eget. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Faucibus a pellentesque sit amet porttitor eget dolor. Lobortis scelerisque fermentum dui faucibus in ornare. Fames ac turpis egestas maecenas."
+  },
+  "hint": {
+    "en": "EN_ Hint_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis leo vel fringilla est ullamcorper eget. ",
+    "cy": "CY_Awgrym_Massa eget egestas purus viverra accumsan in. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Volutpat ac tincidunt vitae semper quis lectus nulla at."
+  }
+}
