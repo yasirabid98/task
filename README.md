@@ -2,7 +2,7 @@
 Using Create React App, a Typescripted React app has been set up which includes an activity component. You are required to complete this component to match the figma prototype given. This includes content, style and functionality.  
 
 The App is already set up, including bootstrap 5.3 and react-bootstrap 2.8 packages. You will only need to modify the files in the **activityComponent folder**. You can use your browsers dev tools to help you debug.
-## Before you begin
+## To begin
 Clone this repository into your own workspace. Please organise your work by task, commiting each task with a relevent commit message as you progress.
 ## Submission
 Once you have completed the work. Push your work to your own repository and email a link to **EMAIL** for submission. 
@@ -24,7 +24,7 @@ Once you have completed the work. Push your work to your own repository and emai
 
 - Style the footer element to match the figma design. 
 
-**All sandbox console errors and problems need to be resolved before submission.**
+**All console errors and problems need to be resolved before submission.**
 
 
 
