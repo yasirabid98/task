@@ -5,7 +5,7 @@ The App is already set up, including bootstrap 5.3 and react-bootstrap 2.8 packa
 ## To begin
 Clone this repository into your own workspace. Please organise your work by task, commiting each task with a relevent commit message as you progress.
 ## Submission
-Once you have completed the work. Push your work to your own repository and email a link to [scott.hazell@wjec.co.uk](mailto:scott.hazell@wjec.co.uk?subject=javascript developer post) for submission. 
+Once you have completed the work. Push your work to your own repository and email a link to [scott.hazell@wjec.co.uk](mailto:scott.hazell@wjec.co.uk?subject=Javascript developer post) for submission. 
 
 ### [Figma Prototype](https://www.figma.com/proto/kLcuWE6XbD5oU9N7TRtsXg/Activity-Component?node-id=1%3A49&scaling=scale-down-width&page-id=1%3A26&starting-point-node-id=1%3A49) 
 
