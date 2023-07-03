@@ -21,7 +21,7 @@ const ActivityComponent = () => {
   }, [locale]);
 
   const handleToggleHint = useCallback(() => {
-    setShowHint(true);
+    setShowHint((prevShowHint) => !prevShowHint);
   }, []);
 
   return (
@@ -32,9 +32,9 @@ const ActivityComponent = () => {
       <div className="card-body">
         <p>{content}</p>
         <div className="text-end">
-          <button onClick={handleToggleHint} className="btn-end btn btn-hint">
-            {showHint ? _("hideHint") : _("showHint")}
-          </button>
+        <button onClick={handleToggleHint} className="btn-end btn btn-hint">
+  {showHint ? _("hideHint") : _("showHint")}
+</button>
         </div>
       </div>
       {showHint && (
