@@ -12,11 +12,13 @@ const ActivityComponent = () => {
   const [showHint, setShowHint] = useState(false);
   const [title, setTitle] = useState<string>("");
   const [content, setContent] = useState<string>("");
+  const [hint, setHint] = useState<string>("");
 
   useEffect(() => {
-    setContent(data.hint[locale]);
+    setContent(data.content[locale]);
     setTitle(data.title[locale]);
-  }, []);
+    setHint(data.hint[locale]);
+  }, [locale]);
 
   const handleToggleHint = useCallback(() => {
     setShowHint(true);
@@ -36,10 +38,10 @@ const ActivityComponent = () => {
         </div>
       </div>
       {showHint && (
-        <div className="card-footer">
-          <p>** hint needs to be added here **</p>
-        </div>
-      )}
+  <div className="card-footer">
+    <p>{hint}</p>
+  </div>
+)}
     </div>
   );
 };
