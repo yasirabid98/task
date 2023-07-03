@@ -1,8 +1,22 @@
 #activity {
+
+  
   button.btn.btn-hint {
     background:none;
     border-color:tomato;
     color:tomato;
     font-weight:700;
+    
   }
+  button.btn.btn-hint:hover {
+    background:tomato;
+    color:white;
+  }
+ 
 }
+.card-footer {
+  background-color: tomato;
+  color: white;
+}
+
+
