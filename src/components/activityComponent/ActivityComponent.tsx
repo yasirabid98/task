@@ -27,10 +27,10 @@ const ActivityComponent = () => {
   return (
     <div id="activity" className="card my-3">
       <div className="card-header">
-        <h1 className="card-title">{title}</h1>
+      <h1 className="card-title">{_(title)}</h1>
       </div>
       <div className="card-body">
-        <p>{content}</p>
+      <p>{_(content)}</p>
         <div className="text-end">
         <button onClick={handleToggleHint} className="btn-end btn btn-hint">
   {showHint ? _("hideHint") : _("showHint")}
